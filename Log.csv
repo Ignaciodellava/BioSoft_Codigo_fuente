@@ -1,0 +1,193 @@
+            Hora y Fecha del Evento      ;      Usuario            ;                             Descripcion del Evento
+31-05-2021 09:38:57;El usuario MANOLO;Abierta opción Listar log
+31-05-2021 09:38:57;El usuario MANOLO;Cerrada opción Listar log
+04-06-2021 09:02:17;El usuario MANOLO;Abierta opción Mostrar médicos
+04-06-2021 09:02:17;El usuario MANOLO;Cerrada opción Mostrar médicos
+13-06-2021 18:52:51;El usuario MANOLO;Se ha añadido al paciente: PACO
+13-06-2021 18:52:59;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+13-06-2021 18:52:59;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+13-06-2021 18:54:40;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+13-06-2021 18:54:40;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+13-06-2021 21:58:42;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 21:59:47;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:00:44;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:01:01;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:01:50;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:02:18;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:02:54;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 22:20:09;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+13-06-2021 22:20:09;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+13-06-2021 22:25:10;El usuario MANOLO;Abierta opción Listar log
+13-06-2021 22:25:10;El usuario MANOLO;Cerrada opción Listar log
+13-06-2021 22:26:37;El usuario MANOLO;Abierta opción Mostrar médicos
+13-06-2021 22:26:37;El usuario MANOLO;Cerrada opción Mostrar médicos
+13-06-2021 22:27:00;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+13-06-2021 22:27:00;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+13-06-2021 22:28:18;El usuario MANOLO;Abierta opción Mostrar informe general
+13-06-2021 23:32:21;El usuario MANOLO;Se ha editado al paciente: PACO
+13-06-2021 23:32:25;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+13-06-2021 23:32:25;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+13-06-2021 23:34:23;El usuario MANOLO;Se ha editado al paciente: PACO
+13-06-2021 23:34:29;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+13-06-2021 23:34:29;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+13-06-2021 23:34:40;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+13-06-2021 23:34:40;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+13-06-2021 23:51:56;El usuario MANOLO;Abierta opción Mostrar médicos
+13-06-2021 23:51:56;El usuario MANOLO;Cerrada opción Mostrar médicos
+13-06-2021 23:54:55;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 00:01:57;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 00:01:57;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 00:04:33;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 00:04:33;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 17:22:07;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 17:22:07;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 17:22:30;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 17:22:30;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 17:48:40;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 17:48:40;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 17:50:36;El usuario MANOLO;Cierra la sesion
+14-06-2021 17:50:47;El usuario CARMEN;Abierta opción Mostrar los pacientes de:CARMEN
+14-06-2021 17:50:47;El usuario CARMEN;Cerrada opción Mostrar los pacientes de:CARMEN
+14-06-2021 17:59:48;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 17:59:48;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 18:00:15;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 18:00:15;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 18:33:56;El usuario MANOLO;Cierra la sesion
+14-06-2021 18:34:20;El usuario CARMEN;Cierra la sesion
+14-06-2021 18:34:29;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:34:29;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:35:07;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 18:35:11;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:35:11;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:35:32;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 18:35:34;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:35:34;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:35:48;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 18:36:10;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 18:36:10;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 18:36:57;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:36:57;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:37:25;El usuario MANOLO;Se ha añadido al paciente: MARCOS
+14-06-2021 18:37:30;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 18:41:35;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 18:41:39;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:41:39;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:43:59;El usuario CARMEN;Cierra la sesion
+14-06-2021 18:44:26;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:44:26;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:44:54;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 18:44:57;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:44:57;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:45:17;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 18:45:19;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:45:19;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:46:12;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 18:47:59;El usuario CARMEN;Cierra la sesion
+14-06-2021 18:48:23;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:48:23;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:48:52;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 18:48:54;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:48:54;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:49:14;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 18:49:15;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 18:49:15;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 18:49:26;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 18:49:46;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 18:49:46;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 18:50:20;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:50:20;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:50:52;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 18:50:56;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 18:51:18;El usuario MANOLO;Se ha dado de baja al paciente: CARLOS
+14-06-2021 18:59:53;El usuario MANOLO;Se ha editado al paciente: PACO
+14-06-2021 18:59:56;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 18:59:56;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:01:55;El usuario CARMEN;Cierra la sesion
+14-06-2021 19:02:04;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:02:04;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:03:09;El usuario CARMEN;Cierra la sesion
+14-06-2021 19:03:27;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:03:27;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:03:53;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 19:03:56;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:03:56;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:04:09;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 19:04:12;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:04:12;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:04:38;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:05:06;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 19:05:06;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 19:06:24;El usuario CARMEN;Cierra la sesion
+14-06-2021 19:06:39;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:06:39;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:07:02;El usuario MANOLO;Se ha añadido al médico: MAROS
+14-06-2021 19:07:04;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:07:04;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:07:33;El usuario MANOLO;Se ha dado de baja al usuario: MAROS
+14-06-2021 19:07:34;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:07:34;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:07:43;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:08:16;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 19:08:16;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 19:08:50;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:08:50;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:09:31;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 19:09:35;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:14:26;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 19:14:51;El usuario MANOLO;Se ha dado de baja al paciente: PACO
+14-06-2021 19:14:54;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:14:54;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:16:49;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 19:16:52;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:16:52;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:17:12;El usuario MANOLO;Se ha dado de baja al paciente: CARLOS
+14-06-2021 19:17:15;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:17:15;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:17:26;El usuario MANOLO;Abierta opción Listar log
+14-06-2021 19:17:26;El usuario MANOLO;Cerrada opción Listar log
+14-06-2021 19:20:56;El usuario CARMEN;Cierra la sesion
+14-06-2021 19:21:26;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:21:26;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:22:08;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 19:22:18;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:22:18;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:22:36;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 19:22:38;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:22:38;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:22:49;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:23:18;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 19:23:18;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 19:23:36;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:23:36;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:24:23;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 19:24:27;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:24:44;El usuario MANOLO;Se ha dado de baja al paciente: CARLOS
+14-06-2021 19:25:19;El usuario MANOLO;Se ha editado al paciente: PACO
+14-06-2021 19:25:22;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:25:22;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:25:35;El usuario MANOLO;Abierta opción Listar log
+14-06-2021 19:25:35;El usuario MANOLO;Cerrada opción Listar log
+14-06-2021 19:28:50;El usuario CARMEN;Cierra la sesion
+14-06-2021 19:29:08;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:29:08;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:29:43;El usuario MANOLO;Se ha añadido al médico: MARCOS
+14-06-2021 19:29:45;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:29:45;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:30:18;El usuario MANOLO;Se ha dado de baja al usuario: MARCOS
+14-06-2021 19:30:20;El usuario MANOLO;Abierta opción Mostrar médicos
+14-06-2021 19:30:20;El usuario MANOLO;Cerrada opción Mostrar médicos
+14-06-2021 19:30:32;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:30:59;El usuario MANOLO;Abierta opción Mostrar todos los pacientes
+14-06-2021 19:30:59;El usuario MANOLO;Cerrada opción Mostrar todos los pacientes
+14-06-2021 19:31:14;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:31:14;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:32:18;El usuario MANOLO;Se ha añadido al paciente: CARLOS
+14-06-2021 19:32:20;El usuario MANOLO;Abierta opción Mostrar informe general
+14-06-2021 19:32:40;El usuario MANOLO;Se ha dado de baja al paciente: CARLOS
+14-06-2021 19:33:02;El usuario MANOLO;Se ha editado al paciente: PACO
+14-06-2021 19:33:04;El usuario MANOLO;Abierta opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:33:04;El usuario MANOLO;Cerrada opción Mostrar los pacientes de:MANOLO
+14-06-2021 19:33:12;El usuario MANOLO;Abierta opción Listar log
+14-06-2021 19:33:13;El usuario MANOLO;Cerrada opción Listar log
+14-06-2021 19:34:04;El usuario MANOLO;Se ha cambiado la contraseña
+14-06-2021 19:34:07;El usuario MANOLO;Cierra la sesion
